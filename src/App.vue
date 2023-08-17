@@ -7,7 +7,7 @@
 <script lang="ts">
   for (let i = 0; i< 100; i ++)  {
 
-    console.log('eeeerwrewr');
+    console.log('eeefsdfsfdsferwrewr');
     
 
 
