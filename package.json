@@ -8,7 +8,8 @@
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint src",
-    "fix": "eslint src --fix"
+    "fix": "eslint src --fix",
+    "prepare": "husky install"
   },
   "dependencies": {
     "vue": "^3.3.4"
@@ -25,7 +26,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-vue": "^9.9.0",
     "eslint-prettier": "0.0.0-empty",
-    "husky": "^8.0.3",
+    "husky": "^8.0.0",
     "postcss": "^8.4.28",
     "postcss-html": "^1.5.0",
     "postcss-scss": "^4.0.7",
