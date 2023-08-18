@@ -3,6 +3,6 @@
   "semi": false,
   "bracketSpacing": true,
   "htmlWhitespaceSensitivity": "ignore",
-  "endOfLine": "all",
+  "endOfLine": "cr",
   "tabWidth": 2
 }

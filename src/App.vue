@@ -1,19 +1,10 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
-<template>
-  hello
-</template>
+<template>hello</template>
 <script lang="ts">
-  for (let i = 0; i< 100; i ++)  {
-
-    console.log('eeefsdfsfdsferwrewr');
-    
-
-
-  }
+for (let i = 0; i < 100; i++) {
+  console.log("5311223");
+}
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
